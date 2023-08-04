@@ -3,3 +3,6 @@ Research on the topic
 Gather data and resources
 Define project milestones
 Start initial implementation
+Conduct testing and debugging
+Finalize project documentation
+Submit project for review
